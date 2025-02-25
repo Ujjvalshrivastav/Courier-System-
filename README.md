@@ -1,4 +1,4 @@
-# Courier Service App  
+# Drone delivery App  
 # Overview  
 Our courier service app provides a user-friendly interface for sending parcels locally and across cities. With a range of delivery options and real-time tracking, you can ensure your packages reach their destination safely and on time. 
 # Key Features  
@@ -72,6 +72,3 @@ Contributions are welcome! If you have suggestions for improvements or features,
 # Contact 
 For any inquiries or feedback, feel free to reach out:  
 
-Email: hariomrathore83938@gmail.com 
-
-GitHub: HariomRathore24
